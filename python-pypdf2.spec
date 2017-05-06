@@ -10,6 +10,7 @@ Group:		Development/Python
 Url:		http://pybrary.net/pyPdf/
 Provides:	%{module}
 BuildRequires:	python-devel
+BuildRequires:	python-setuptools
 BuildArch:	noarch
 
 %description

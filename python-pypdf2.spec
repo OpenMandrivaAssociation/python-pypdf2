@@ -7,7 +7,7 @@ Release:	1
 Source0:	http://pybrary.net/%{module}/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
-Url:		http://pybrary.net/pyPdf/
+Url:		https://pybrary.net/pyPdf/
 Provides:	%{module}
 BuildRequires:	python-devel
 BuildRequires:	python-setuptools
